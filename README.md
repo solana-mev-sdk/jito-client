@@ -8,8 +8,6 @@
 npm install @solana-mev-sdk/jito-client @solana/web3.js
 ```
 
-`@solana/web3.js` is a peer dependency. The package also depends on `@solana-mev-sdk/jito-tip-tx` and `bs58` (installed automatically).
-
 ## Usage
 
 ### Basic
