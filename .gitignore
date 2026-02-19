@@ -1,5 +1,9 @@
-/CHANGELOG.html
-/coverage/
-/node_modules/
-/lib/
-/docs/
+node_modules/
+dist/
+config.json
+.env
+*.log
+
+yarn.lock
+package-lock.json
+.DS_Store
